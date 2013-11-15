@@ -14,8 +14,8 @@ author :
   name : Ignazio Mostallino
   email : blah@email.test
   github : gnagno
-  twitter : username
-  feedburner : feedname
+  twitter : gnagnone
+  # feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
