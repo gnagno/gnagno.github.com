@@ -12,7 +12,7 @@ title : GnagnoSoft
 tagline: Site Tagline
 author :
   name : Ignazio Mostallino
-  email : blah@email.test
+  # email : blah@gmail.com
   github : gnagno
   twitter : gnagnone
   # feedburner : feedname
