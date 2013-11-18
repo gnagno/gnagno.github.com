@@ -10,6 +10,7 @@ tagline: Supporting tagline
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
       <p>{{ post.excerpt }}</p>
+      <p>Published: {{ post.date | date: '%B' }} {{ post.date | date: '%d' }} {{ post.date | date: '%Y' }}</p>
     </li>
   {% endfor %}
 </ul>
