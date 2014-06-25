@@ -3,7 +3,7 @@ layout: post
 title: "Git stashing"
 description: "Some useful tricks with git stash"
 category: "git"
-tags: [git stash]
+tags: [git, stash]
 ---
 {% include JB/setup %}
 
